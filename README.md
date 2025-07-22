@@ -1,61 +1,52 @@
-
-
-```markdown
 # 🎨 InspoBox – A Daily Design Inspiration Hub
 
-Welcome to **InspoBox**, your one-stop micro dashboard for daily doses of design creativity! This beautifully simple webpage displays:
+Welcome to **InspoBox**, your one-stop micro dashboard for daily doses of design creativity!
 
-- 🗨️ A **Quote of the Day**
+This aesthetic webpage delivers:
+- 🗨️ **Quote of the Day**
 - 🌈 A hand-picked **Color Palette**
 - ✍️ A **Featured Font** to explore
 
-Crafted with 💚 using only **HTML** and **CSS**, this static project is perfect for UI inspiration and creative vibes — no JavaScript (yet!).
+Crafted with 💚 using only **HTML** and **CSS**, this static project is perfect for UI inspiration and creative vibes — no JavaScript involved!
 
 ---
 
-## 🖼️ Preview
+## 📸 Preview
 
-![InspoBox Screenshot](./screenshot.png)
-
----
-
-## 🧩 Features
-
-- Minimal, clean, and aesthetic layout
-- Centered design-focused content:
-  - Motivational quote
-  - Eye-pleasing color swatches
-  - Modern Google font preview
-- Responsive and mobile-friendly
+![InspoBox Screenshot](screenshot.png)
 
 ---
 
-## 📁 Built With
+## ✨ Features
+
+- Clean, minimalist, and aesthetic layout
+- Responsive design for all devices
+- Beautiful Google Font styling
+- Center-aligned content for focus and clarity
+
+---
+
+## 🔧 Built With
 
 - HTML5  
 - CSS3  
-- Google Fonts (Poppins)  
-- Emojis for a fun touch 🌟
+- Google Fonts  
+- 💡 No JavaScript yet!
 
 ---
 
-## 🚀 Future Enhancements (with JavaScript)
+## 🌱 Future Enhancements
 
-- Shuffle quotes, palettes, and fonts daily  
-- Click to copy color hex codes  
-- Save favorite combinations  
-
----
-
-## 📌 Getting Started
-
-Just open `index.html` in your browser — that's it!
+- Shuffle quotes, palettes, and fonts with JS  
+- Click to copy hex color codes  
+- Add theme switcher (light/dark)
 
 ---
 
-## 📸 Screenshot
+## 🚀 Getting Started
 
-Make sure `screenshot.png` is present in the repo root for GitHub preview.
+1. Clone the repo  
+2. Open `index.html` in your browser — that's it!
 
 ---
 
@@ -65,8 +56,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-## 👨‍💻 Made by [Prince Pathak](https://github.com/princepathak25)
+## 👨‍💻 Created by [Prince Pathak](https://github.com/princepathak25)
 
-Let's connect:  
-- [GitHub](https://github.com/princepathak25)  
-- Contact info in the footer
+If you like it, ⭐ the repo!
