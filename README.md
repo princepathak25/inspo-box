@@ -11,11 +11,6 @@ Crafted with 💚 using only **HTML** and **CSS**, this static project is perfec
 
 ---
 
-## 📸 Preview
-
-![InspoBox Screenshot](screenshot.png)
-
----
 
 ## ✨ Features
 
