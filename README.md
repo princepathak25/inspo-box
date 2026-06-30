@@ -1,18 +1,18 @@
-# 🎨 InspoBox – A Daily Design Inspiration Hub
+# InspoBox – A Daily Design Inspiration Hub
 
 Welcome to **InspoBox**, your one-stop micro dashboard for daily doses of design creativity!
 
 This aesthetic webpage delivers:
-- 🗨️ **Quote of the Day**
-- 🌈 A hand-picked **Color Palette**
-- ✍️ A **Featured Font** to explore
+- **Quote of the Day**
+- A hand-picked **Color Palette**
+- A **Featured Font** to explore
 
-Crafted with 💚 using only **HTML** and **CSS**, this static project is perfect for UI inspiration and creative vibes — no JavaScript involved!
+Crafted using only **HTML** and **CSS**, this static project is perfect for UI inspiration and creative vibes — no JavaScript involved!
 
 ---
 
 
-## ✨ Features
+## Features
 
 - Clean, minimalist, and aesthetic layout
 - Responsive design for all devices
@@ -21,16 +21,15 @@ Crafted with 💚 using only **HTML** and **CSS**, this static project is perfec
 
 ---
 
-## 🔧 Built With
+## Built With
 
 - HTML5  
 - CSS3  
 - Google Fonts  
-- 💡 No JavaScript yet!
 
 ---
 
-## 🌱 Future Enhancements
+## Future Enhancements
 
 - Shuffle quotes, palettes, and fonts with JS  
 - Click to copy hex color codes  
@@ -38,19 +37,19 @@ Crafted with 💚 using only **HTML** and **CSS**, this static project is perfec
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 1. Clone the repo  
 2. Open `index.html` in your browser — that's it!
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-## 👨‍💻 Created by [Prince Pathak](https://github.com/princepathak25)
+## Created by [Prince Pathak]
 
-If you like it, ⭐ the repo!
+If you like it, star the repo!
